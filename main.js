@@ -101,7 +101,7 @@ const table7 = arrow7.tableFromIPC(file);
         "Create Int Vector",
 
         b.add("Arrow 6", () => {
-            arrow6.FloatVector.from(array);
+            arrow6.IntVector.from(array);
         }),
 
         b.add("Arrow 7", () => {
