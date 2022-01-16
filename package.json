@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@domoritz/apache-arrow": "7.0.0-canary.e4ec794bc",
+    "@domoritz/apache-arrow": "7.0.0-canary.6619579f6",
     "apache-arrow": "^6.0.1",
     "benny": "^3.7.1"
   }

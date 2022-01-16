@@ -36,10 +36,10 @@
     "@arrows/error" "^1.0.2"
     fast-deep-equal "^3.1.3"
 
-"@domoritz/apache-arrow@7.0.0-canary.e4ec794bc":
-  version "7.0.0-canary.e4ec794bc"
-  resolved "https://registry.yarnpkg.com/@domoritz/apache-arrow/-/apache-arrow-7.0.0-canary.e4ec794bc.tgz#4ea1f9560fd754da034fceb1b8b8a176326027eb"
-  integrity sha512-mRWh6cVTj1SssGvzTqCMhIHr08ckqygYsIrbnDVOhk9XASo34aiccVG/WH+MbJE/p32nkbDdFyJcv7jXj+UA2A==
+"@domoritz/apache-arrow@7.0.0-canary.6619579f6":
+  version "7.0.0-canary.6619579f6"
+  resolved "https://registry.yarnpkg.com/@domoritz/apache-arrow/-/apache-arrow-7.0.0-canary.6619579f6.tgz#da5c394950a167e1299b38df17a5f8fce6100f18"
+  integrity sha512-vNua7zPVdbw1AWEPuBt0sZg+xzOh6PI/PiCfVrkwMLy5IH00j2qUu5hqmB5Fbv/DFoN7KrfDSKQ4Yy8qjMdsTA==
   dependencies:
     "@types/command-line-args" "5.2.0"
     "@types/command-line-usage" "5.0.2"
